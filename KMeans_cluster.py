@@ -1,4 +1,6 @@
 
+#KMeans is implemented on fake data 
+
 import random
 import pandas as pd
 from scipy import stats
