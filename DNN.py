@@ -1,5 +1,5 @@
 
-# A very simple deep neural netword to recognize digits using tensorflow and keras
+# A very simple deep neural network to recognize digits using tensorflow and keras
 
 
 import tensorflow as tf
