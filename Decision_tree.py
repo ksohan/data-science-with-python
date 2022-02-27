@@ -1,5 +1,5 @@
 
-#Decision tree with rendom forest classifier
+#Decision tree with random forest classifier
 #to draw the graph we need python 2
 
 
